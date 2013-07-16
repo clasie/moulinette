@@ -1,0 +1,36 @@
+
+.brc_blanc_id_br {
+	background-color: #FFFFFF ;
+}
+
+.brc_gris_clair_id_br {
+	background-color: #D1D1DF ;
+}
+
+.brc_bleu_roi_id_br {
+	background-color: #0033CC ;
+}
+
+.brc_jaune_id_br {
+	background-color: #FFFF00 ;
+}
+
+.brc_fushia_id_br {
+	background-color: #FF0066 ;
+}
+
+.brc_brun_clair_id_br {
+	background-color: #B48100 ;
+}
+
+.brc_marine_id_br {
+	background-color: #000066 ;
+}
+
+.brc_rouge_id_br {
+	background-color: #990000 ;
+}
+
+.brc_vichy_id_br {
+	background-color: #000066 ;
+}

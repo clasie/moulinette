@@ -1,0 +1,85 @@
+		
+			<div class="divBigProduct ColorBorders">		
+			   <div style="display:block;" >				 	   
+			      <div class="PersoOptionColorGallons">
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_bleu_ciel_ctp" ></span>
+		         <span class="menu" >1 / Bleu ciel/Hemelsblauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_gris_clair_ctp" ></span>
+		         <span class="menu" >2 / Gris clair/Lichtgrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_gris_fonce_ctp" ></span>
+		         <span class="menu" >3 / Gris foncé/Donkergrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_rouge_ctp" ></span>
+		         <span class="menu" >4 / Rouge/Rood</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_vert_fonce_ctp" ></span>
+		         <span class="menu" >5 / Vert foncé/Donkergroen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_taupe_ctp" ></span>
+		         <span class="menu" >6 / Taupe/Donkergrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_champagne_ctp" ></span>
+		         <span class="menu" >7 / Champagne/Champagne</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_noir_ctp" ></span>
+		         <span class="menu" >8 / Noir/Zwart</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_bordeaux_ctp" ></span>
+		         <span class="menu" >9 / Bordeaux/Bordeaux</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_bleu_roi_ctp" ></span>
+		         <span class="menu" >10 / Bleu roi/Royal Blue</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_choco_ctp" ></span>
+		         <span class="menu" >11 / Choco/Choco</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_marine_ctp" ></span>
+		         <span class="menu" >12 / Bleu marine/Navy blauw </span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_gris_moyen_ctp" ></span>
+		         <span class="menu" >13 / Gris moyen/Middengrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_blanc_ctp" ></span>
+		         <span class="menu" >14 / Blanc/Wit</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases col_vichy_marine_ctp" ></span>
+		         <span class="menu" >15 / Vichy marine/Navy vichy</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

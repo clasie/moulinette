@@ -1,0 +1,56 @@
+			
+			<div class="divBigProduct ColorBorders">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Bordures rajoutées/Extra randen</b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_blanc_id_br" ></span>
+		         <span class="menu" >1 / Blanc/Wit</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_gris_clair_id_br" ></span>
+		         <span class="menu" >2 / Gris clair/Lichtgrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_bleu_roi_id_br" ></span>
+		         <span class="menu" >3 / Bleu roi/Royal Blue</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_jaune_id_br" ></span>
+		         <span class="menu" >4 / Jaune/Geel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_fushia_id_br" ></span>
+		         <span class="menu" >5 / Fushia/Fuchsia</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_brun_clair_id_br" ></span>
+		         <span class="menu" >6 / Brun clair/Lichtbruin</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_marine_id_br" ></span>
+		         <span class="menu" >7 / Bleu marine/Navy blauw </span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_rouge_id_br" ></span>
+		         <span class="menu" >8 / Rouge/Rood</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brc_vichy_id_br" ></span>
+		         <span class="menu" >9 / Vichy/Vichy</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

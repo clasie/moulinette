@@ -1,0 +1,161 @@
+			
+			<div class="divBigProduct ColorBorders">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Grands galons/Grote toegevoegde vlecht</b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_bordeaux_id_gg" ></span>
+		         <span class="menu" >1 / Bordeaux/Bordeaux</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_fushia_id_gg" ></span>
+		         <span class="menu" >2 / Fushia/Fuchsia</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_bleu_petrole_id_gg" ></span>
+		         <span class="menu" >3 / Bleu pétrole/Blauwe olie</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_aubergine_id_gg" ></span>
+		         <span class="menu" >4 / Aubergine/Aubergine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_vert_chasseur_id_gg" ></span>
+		         <span class="menu" >5 / Vert chasseur/Hunter groen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_jaune_pale_id_gg" ></span>
+		         <span class="menu" >6 / Jaune pâle/Lichtgeel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_blanc_id_gg" ></span>
+		         <span class="menu" >7 / Blanc/Wit</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_moutarde_clair_id_gg" ></span>
+		         <span class="menu" >8 / Moutarde clair/Mosterd-gekleurd licht</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_rouille_id_gg" ></span>
+		         <span class="menu" >9 / Rouille/Roestkleur</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_marine_id_gg" ></span>
+		         <span class="menu" >10 / Bleu marine/Navy blauw </span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_gris_fonce_id_gg" ></span>
+		         <span class="menu" >11 / Gris foncé/Donkergrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_parme_id_gg" ></span>
+		         <span class="menu" >12 / Parme/paars</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_mauve_id_gg" ></span>
+		         <span class="menu" >13 / Mauve/Purper</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_champagne_id_gg" ></span>
+		         <span class="menu" >14 / Champagne/Champagne</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_orange_id_gg" ></span>
+		         <span class="menu" >15 / Orange/Oranje</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_vert_flash_id_gg" ></span>
+		         <span class="menu" >16 / Vert flash/Flash groen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_gris_bleu_id_gg" ></span>
+		         <span class="menu" >17 / Gris bleu/Grijs blauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_gris_id_gg" ></span>
+		         <span class="menu" >18 / Gris/Grijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_brun_id_gg" ></span>
+		         <span class="menu" >19 / Brun/Bruin</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_bleu_roi_id_gg" ></span>
+		         <span class="menu" >20 / Bleu roi/Royal Blue</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_moutarde_fonce_id_gg" ></span>
+		         <span class="menu" >21 / Moutarde foncé/Donkere mosterd</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_noir_id_gg" ></span>
+		         <span class="menu" >22 / Noir/Zwart</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_bleu_indigo_id_gg" ></span>
+		         <span class="menu" >23 / Bleu indigo/Indigo blauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_gris_clair_id_gg" ></span>
+		         <span class="menu" >24 / Gris clair/Lichtgrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_vert_pale_id_gg" ></span>
+		         <span class="menu" >25 / Vert pâle/Lichtgroen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_bleu_ciel_id_gg" ></span>
+		         <span class="menu" >26 / Bleu ciel/Hemelsblauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_rose_pale_id_gg" ></span>
+		         <span class="menu" >27 / Rose pâle/Lichtroze</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_vieux_rose_id_gg" ></span>
+		         <span class="menu" >28 / Vieux rose/Oudroze</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_brun_clair_id_gg" ></span>
+		         <span class="menu" >29 / Brun clair/Lichtbruin</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggc_rouge_id_gg" ></span>
+		         <span class="menu" >30 / Rouge/Rood</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

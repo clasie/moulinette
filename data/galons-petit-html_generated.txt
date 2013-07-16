@@ -1,0 +1,136 @@
+			
+			<div class="divBigProduct ">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Petits galons / Kleine toegevoegde vlecht</b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_blanc-petit_f4e" ></span>
+		         <span class="menu" >1 / Blanc petit/Kleine witte</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris-petit_f4e" ></span>
+		         <span class="menu" >2 / Gris petit/Grijs klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris-petit_f4e" ></span>
+		         <span class="menu" >3 / Gris petit/Grijs klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_champagne-petit_f4e" ></span>
+		         <span class="menu" >4 / Champagne petit/Champagne klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_rouge-petit_f4e" ></span>
+		         <span class="menu" >5 / Rouge petit/Rood klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bodeaux-petit_f4e" ></span>
+		         <span class="menu" >6 / Bodeaux petit/Bodeaux klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_noir-petit_f4e" ></span>
+		         <span class="menu" >7 / Noir petit/Zwart klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu-ciel-petit_f4e" ></span>
+		         <span class="menu" >8 / Bleu ciel petit/Blauwe hemel klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu-roi-petit_f4e" ></span>
+		         <span class="menu" >9 / Bleu roi petit/Koningsblauw klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_marine-petit_f4e" ></span>
+		         <span class="menu" >10 / Marine petit/Marine klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_vert-sapin-petit_f4e" ></span>
+		         <span class="menu" >11 / Vert sapin petit/Groene spar klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_rouille-petit_f4e" ></span>
+		         <span class="menu" >12 / Rouille petit/Roest klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu-petit_f4e" ></span>
+		         <span class="menu" >13 / Bleu petit/Blauwe klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu-gris-petit_f4e" ></span>
+		         <span class="menu" >14 / Bleu gris petit/Blauw grijs klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_taupe-petit_f4e" ></span>
+		         <span class="menu" >15 / Taupe petit/Mol klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_camel-petit_f4e" ></span>
+		         <span class="menu" >16 / Camel petit/Camel klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_choco-petit_f4e" ></span>
+		         <span class="menu" >17 / Choco petit/Choco klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_parme-petit_f4e" ></span>
+		         <span class="menu" >18 / Parme petit/Parme klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_violet-petit_f4e" ></span>
+		         <span class="menu" >19 / Violet petit/Violet klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_aubergine-petit_f4e" ></span>
+		         <span class="menu" >20 / Aubergine petit/Aubergine klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_fuschia-petit_f4e" ></span>
+		         <span class="menu" >21 / Fuschia petit/Fuschia klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_jaune-petit_f4e" ></span>
+		         <span class="menu" >22 / Jaune petit/Geel klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_vert-petit_f4e" ></span>
+		         <span class="menu" >23 / Vert petit/Groen klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_argent-petit_f4e" ></span>
+		         <span class="menu" >24 / Argent petit/Zilver klein</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_or-petit_f4e" ></span>
+		         <span class="menu" >25 / Or petit/Goud klein</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

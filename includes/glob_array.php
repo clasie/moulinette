@@ -1,0 +1,102 @@
+<?php
+$a = "
+    
+ http://www.w3schools.com/tags/ref_colormixer.asp
+
+// GROS GALONS CLACUL    
+
+'Bordeaux/Bordeaux              | (ref:9) | #6f6e76', 
+'Fushia/Fushia                  | (ref:33) | #6f6e76', 
+'Bleu pétrole/Bleu pétrole      | (ref:21) | #6f6e76', 
+'Aubergine/Aubergine            | (ref:32) | #6f6e76', 
+'Vert chasseur/Vert chasseur    | (ref:16) | #6f6e76', 
+'Jaune pâle/Jaune pâle          | (ref:7) | #6f6e76', 
+'Blanc/Blanc                    | (ref:1) | #6f6e76', 
+'Moutarde clair/Moutarde clair  | (ref:5) | #6f6e76', 
+'Rouille/Rouille                | (ref:17) | #6f6e76', 
+'Bleu marine/Bleu marine        | (ref:14) | #6f6e76', 
+'Gris foncé/Gris foncé          | (ref:22) | #6f6e76', 
+'Parme/Parme                    | (ref:30) | #6f6e76', 
+'Mauve/Mauve                    | (ref:31) | #6f6e76', 
+'Champagne/Champagne            | (ref:4) | #6f6e76', 
+'Orange/Orange                  | (ref:29) | #6f6e76', 
+'Vert flash/Vert flash          | (ref:35) | #6f6e76', 
+'Gris bleu/Gris bleu            | (ref:23) | #6f6e76', 
+'Gris/Gris                      | (ref:3) | #6f6e76', 
+'Brun/Brun                      | (ref:25) | #6f6e76', 
+'Bleu roi/Bleu roi              | (ref:13) | #6f6e76',     
+'Moutarde foncée/Mourade foncée | (ref:6) | #6f6e76', 
+'Noir/Noir                      | (ref:10) | #6f6e76', 
+'Bleu indigo/Bleu indigo        | (ref:18) | #6f6e76', 
+'Gris clair/Gris clair          | (ref:2) | #6f6e76', 
+'Vert pâle/Vert pâle            | (ref:26) | #6f6e76', 
+'Bleu ciel/Bleu ciel            | (ref:12) | #6f6e76', 
+'Rose pâle/Rose pâle            | (ref:11) | #6f6e76', 
+'Vieux rose/Vieux rose          | (ref:15) | #6f6e76', 
+'Brun clair/Brun clair          | (ref:24) | #6f6e76', 
+'Rouge/Rouge                    | (ref:8) | #6f6e76',     
+
+// PETITS GALONS CLACUL    
+
+'Noir/Noir                      | (ref:10/p) | #6f6e76', 
+'Gris clair/Gris clair          | (ref:2/p) | #6f6e76', 
+'Parme/Parme                    | (ref:30/p) | #6f6e76', 
+'Bordeaux/Bordeaux              | (ref:9/p) | #6f6e76', 
+'Brun/Brun                      | (ref:25/p) | #6f6e76', 
+'Mauve/Mauve                    | (ref:31/p) | #6f6e76', 
+'Bleu indigo/Bleu indigo        | (ref:18/p) | #6f6e76', 
+'Champagne/Champagne            | (ref:4/p) | #6f6e76', 
+'Jaune/Jaune                    | (ref:34/p) | #6f6e76', 
+'Aubergine/Aubergine            | (ref:32p) | #6f6e76', 
+'Rouge/Rouge                    | (ref:8/p) | #6f6e76', 
+'Gris foncé/Gris foncé          | (ref:22/p) | #6f6e76', 
+'Bleu marine/Bleu marine        | (ref:14/p) | #6f6e76', 
+'Bleu roi/Bleu roi              | (ref:13/p) | #6f6e76', 
+'Bleu pétrole/Bleu pétrole      | (ref:21/p) | #6f6e76', 
+'Vert flash/Vert flash          | (ref:35/p) | #6f6e76', 
+'Gris/Gris                      | (ref:3/p) | #6f6e76', 
+'Fushia/Fushia                  | (ref:33/p) | #6f6e76', 
+'Bleu ciel/Bleu ciel            | (ref:12/p) | #6f6e76', 
+'Rouille/Rouille                | (ref:17/p) | #6f6e76',     
+'Blanc/Blanc                    | (ref:1/p) | #6f6e76', 
+'Vert chasseur/Vert chasseur    | (ref:16/p) | #6f6e76', 
+'Brun clair/Brun clair          | (ref:24/p) | #6f6e76', 
+   
+// GRANDS BORDS CLACUL    
+
+'Bordeaux/Bordeaux              | (ref:13) | #6f6e76', 
+'Vert chasseur/Vert chasseur    | (ref:14) | #6f6e76', 
+'Brun/Brun                      | (ref:15) | #6f6e76', 
+'Noir/Noir                      | (ref:16) | #6f6e76', 
+'Gris/Gris                      | (ref:17) | #6f6e76', 
+'Orange/Orange                  | (ref:18) | #6f6e76', 
+'Jaune/Jaune                    | (ref:19) | #6f6e76', 
+'Brun clair/Brun clair          | (ref:20) | #6f6e76', 
+'Parme/Parme                    | (ref:21) | #6f6e76', 
+'Aubergine/Aubergine            | (ref:22) | #6f6e76', 
+'Blanc/Blanc                    | (ref:1) | #6f6e76', 
+'Rose pâle/Rose pâle            | (ref:2) | #6f6e76', 
+'Crème/Crème                    | (ref:3) | #6f6e76', 
+'Gris clair/Gris clair          | (ref:4) | #6f6e76', 
+'Gris foncé/Gris foncé          | (ref:6) | #6f6e76', 
+'Bleu ciel/Bleu ciel            | (ref:7) | #6f6e76', 
+'Bleu pétrole/Bleu pétrole      | (ref:8) | #6f6e76', 
+'Bleu roi/Bleu roi              | (ref:9) | #6f6e76', 
+'Bleu marine/Bleu marine        | (ref:10) | #6f6e76', 
+'Moutarde/Moutarde              | (ref:11) | #6f6e76',     
+'Rouge/Rouge                    | (ref:12) | #6f6e76', 
+
+   
+// PETITS BORDS CLACUL    
+
+'Blanc/Blanc                    | (ref:1/p) | #6f6e76', 
+'Gris clair/Gris clair          | (ref:4/p) | #6f6e76', 
+'Bleu roi/Bleu roi              | (ref:9/p) | #6f6e76', 
+'Jaune/Jaune                    | (ref:34/p) | #6f6e76', 
+'Fushia/Fushia                  | (ref:33/p) | #6f6e76', 
+'Brun clair/Brun clair          | (ref:20/p) | #6f6e76', 
+'Marine/Marine                  | (ref:10/p) | #6f6e76', 
+'Rouge/Rouge                    | (ref:12/p) | #6f6e76', 
+'Vichy/Vichy                    | (ref:vichy) | #6f6e76',   
+
+";

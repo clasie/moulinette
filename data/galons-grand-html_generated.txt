@@ -1,0 +1,236 @@
+			
+			<div class="divBigProduct ">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Grands galons / Groote toegevoegde vlecht</b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_blanc_048" ></span>
+		         <span class="menu" >1 / Blanc/Wit</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris-brillant_048" ></span>
+		         <span class="menu" >2 / Gris brillant/Glanzende grijze</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris-clair_048" ></span>
+		         <span class="menu" >3 / Gris clair/Lichtgrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_nuance-bleu_048" ></span>
+		         <span class="menu" >4 / Nuance bleu/blauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris_048" ></span>
+		         <span class="menu" >5 / Gris/Grijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_nuance-marine_048" ></span>
+		         <span class="menu" >6 / Nuance marine/Marine schaduw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_or_048" ></span>
+		         <span class="menu" >7 / Or/Goud</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_nuance-vert_048" ></span>
+		         <span class="menu" >8 / Nuance vert/Groen schaduw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_moutarde_048" ></span>
+		         <span class="menu" >9 / Moutarde/Blaag</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_nuance-marron_048" ></span>
+		         <span class="menu" >10 / Nuance marron/Bruine tint</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_jaune-paille_048" ></span>
+		         <span class="menu" >11 / Jaune paille/Geel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_rouge_048" ></span>
+		         <span class="menu" >12 / Rouge/Rood</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_rose-blanc_048" ></span>
+		         <span class="menu" >13 / Rose blanc / Roze wit</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bodeaux_048" ></span>
+		         <span class="menu" >14 / Bodeaux/Bodeaux</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_noir_048" ></span>
+		         <span class="menu" >15 / Noir/Zwart</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_rose-pale_048" ></span>
+		         <span class="menu" >16 / Rose pâle/Roze bleek</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu-ciel_048" ></span>
+		         <span class="menu" >17 / Bleu ciel/Blauwe hemel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu-roi_048" ></span>
+		         <span class="menu" >18 / Bleu roi/Koningsblauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_vert-champagne-or_048" ></span>
+		         <span class="menu" >19 / Vert champagne or/Groene champagne goud</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_marine_048" ></span>
+		         <span class="menu" >20 / Marine/Marine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bordeaux-dore_048" ></span>
+		         <span class="menu" >21 / Bordeaux doré/Bordeaux gouden</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_marine-or_048" ></span>
+		         <span class="menu" >22 / Marine or/Marine goud</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_rose_048" ></span>
+		         <span class="menu" >23 / Rose/Roze</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris-argente_048" ></span>
+		         <span class="menu" >24 / Gris argenté/Zilvergrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_vert-sapin_048" ></span>
+		         <span class="menu" >25 / Vert sapin/Groene spar</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_rouille_048" ></span>
+		         <span class="menu" >26 / Rouille/Roest</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu_048" ></span>
+		         <span class="menu" >27 / Bleu/Blauwe</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_blanc-argente-marine_048" ></span>
+		         <span class="menu" >28 / Blanc argenté marine/Wit zilver marine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_blanc-or-marine_048" ></span>
+		         <span class="menu" >29 / Blanc or marine/Wit goud marine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_bleu-ciel_048" ></span>
+		         <span class="menu" >30 / Bleu ciel/Blauwe hemel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris-fonce_048" ></span>
+		         <span class="menu" >31 / Gris foncé/Donkergrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_gris-perle_048" ></span>
+		         <span class="menu" >32 / Gris perle/Parelgrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_camel_048" ></span>
+		         <span class="menu" >33 / Camel/Camel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_choco_048" ></span>
+		         <span class="menu" >34 / Choco/Choco</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_vert-clair_048" ></span>
+		         <span class="menu" >35 / Vert clair/Lichtgroen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_orange_048" ></span>
+		         <span class="menu" >36 / Orange/Oranje</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_mauve-pale_048" ></span>
+		         <span class="menu" >37 / Mauve pâle/Lichtpaars</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_violet_048" ></span>
+		         <span class="menu" >38 / Violet/Violet</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_aubergine_048" ></span>
+		         <span class="menu" >39 / Aubergine/Aubergine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_fuschia_048" ></span>
+		         <span class="menu" >40 / Fuschia/Fuschia</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_vert-flash_048" ></span>
+		         <span class="menu" >41 / Vert flash/Flash groen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_argent_048" ></span>
+		         <span class="menu" >42 / Argent/Zilver</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_marron-or_048" ></span>
+		         <span class="menu" >43 / Marron or/Bruin goud</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_noir-or_048" ></span>
+		         <span class="menu" >44 / Noir or/Zwarte goud</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons g_or_048" ></span>
+		         <span class="menu" >45 / Or/Goud</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

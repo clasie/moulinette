@@ -1,0 +1,126 @@
+			
+			<div class="divBigProduct ColorBorders">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Petits galons/Kleine toegevoegde vlecht</b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_noir_id_pg" ></span>
+		         <span class="menu" >1 / Noir/Zwart</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_gris_clair_id_pg" ></span>
+		         <span class="menu" >2 / Gris clair/Lichtgrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_parme_id_pg" ></span>
+		         <span class="menu" >3 / Parme/paars</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_bordeaux_id_pg" ></span>
+		         <span class="menu" >4 / Bordeaux/Bordeaux</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_brun_id_pg" ></span>
+		         <span class="menu" >5 / Brun/Bruin</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_mauve_id_pg" ></span>
+		         <span class="menu" >6 / Mauve/Purper</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_bleu_indigo_id_pg" ></span>
+		         <span class="menu" >7 / Bleu indigo/Indigo blauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_champagne_id_pg" ></span>
+		         <span class="menu" >8 / Champagne/Champagne</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_jaune_id_pg" ></span>
+		         <span class="menu" >9 / Jaune/Geel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_aubergine_id_pg" ></span>
+		         <span class="menu" >10 / Aubergine/Aubergine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_rouge_id_pg" ></span>
+		         <span class="menu" >11 / Rouge/Rood</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_gris_fonce_id_pg" ></span>
+		         <span class="menu" >12 / Gris foncé/Donkergrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_marine_id_pg" ></span>
+		         <span class="menu" >13 / Bleu marine/Navy blauw </span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_bleu_roi_id_pg" ></span>
+		         <span class="menu" >14 / Bleu roi/Royal Blue</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_bleu_petrole_id_pg" ></span>
+		         <span class="menu" >15 / Bleu pétrole/Blauwe olie</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_vert_flash_id_pg" ></span>
+		         <span class="menu" >16 / Vert flash/Flash groen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_gris_id_pg" ></span>
+		         <span class="menu" >17 / Gris/Grijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_fushia_id_pg" ></span>
+		         <span class="menu" >18 / Fushia/Fuchsia</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_bleu_ciel_id_pg" ></span>
+		         <span class="menu" >19 / Bleu ciel/Hemelsblauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_rouille_id_pg" ></span>
+		         <span class="menu" >20 / Rouille/Roestkleur</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_blanc_id_pg" ></span>
+		         <span class="menu" >21 / Blanc/Wit</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_vert_chasseur_id_pg" ></span>
+		         <span class="menu" >22 / Vert chasseur/Hunter groen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgc_brun_clair_id_pg" ></span>
+		         <span class="menu" >23 / Brun clair/Lichtbruin</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

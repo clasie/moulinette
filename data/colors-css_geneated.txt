@@ -1,0 +1,60 @@
+
+.col_bleu_ciel_ctp {
+	background-color: #D5ECF1 ;
+}
+
+.col_gris_clair_ctp {
+	background-color: #F2F2F2 ;
+}
+
+.col_gris_fonce_ctp {
+	background-color: #41403e ;
+}
+
+.col_rouge_ctp {
+	background-color: #c62827 ;
+}
+
+.col_vert_fonce_ctp {
+	background-color: #003300 ;
+}
+
+.col_taupe_ctp {
+	background-color: #BD9C59 ;
+}
+
+.col_champagne_ctp {
+	background-color: #FAF7C2 ;
+}
+
+.col_noir_ctp {
+	background-color: #000000 ;
+}
+
+.col_bordeaux_ctp {
+	background-color: #572033 ;
+}
+
+.col_bleu_roi_ctp {
+	background-color: #2e4ca6 ;
+}
+
+.col_choco_ctp {
+	background-color: #663300 ;
+}
+
+.col_marine_ctp {
+	background-color: #01061c ;
+}
+
+.col_gris_moyen_ctp {
+	background-color: #808080 ;
+}
+
+.col_blanc_ctp {
+	background-color: white ;
+}
+
+.col_vichy_marine_ctp {
+	background-color: #01061c ;
+}

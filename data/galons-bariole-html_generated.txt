@@ -1,0 +1,86 @@
+			
+			<div class="divBigProduct ColorBorders">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Gd. gal. multicol./Gr. veelkl. vlecht </b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_bleu_1_id_ggb" ></span>
+		         <span class="menu" >1 / Galon multicolore bleu 1/Veelkleurige vlecht blauw 1</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_vert_1_id_ggb" ></span>
+		         <span class="menu" >2 / Galon multicolore vert 1/Veelkleurige vlecht groen 1</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_vert_2_id_ggb" ></span>
+		         <span class="menu" >3 / Galon multicolore vert 2/Veelkleurige vlecht groen 2</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_brun_1_id_ggb" ></span>
+		         <span class="menu" >4 / Galon multicolore brun 1/Veelkleurige vlecht bruin 1</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_rose_5_id_ggb" ></span>
+		         <span class="menu" >5 / Galon multicolore rose 5/Veelkleurige vlecht roze 5</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_vert_6_id_ggb" ></span>
+		         <span class="menu" >6 / Galon multicolore vert 6/Veelkleurige vlecht groen 6</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_rouge_7_id_ggb" ></span>
+		         <span class="menu" >7 / Galon multicolore rouge 7/Veelkleurige vlecht rood 7</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_bleu_2_id_ggb" ></span>
+		         <span class="menu" >8 / Galon multicolore bleu 2/Veelkleurige vlecht blauw 2</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_bleu_3_id_ggb" ></span>
+		         <span class="menu" >9 / Galon multicolore bleu 3/Veelkleurige vlecht blauw 3</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_bleu_4_id_ggb" ></span>
+		         <span class="menu" >10 / Galon multicolore bleu 4/Veelkleurige vlecht blauw 4</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_bleu_5_id_ggb" ></span>
+		         <span class="menu" >11 / Galon multicolore bleu 5/Veelkleurige vlecht blauw 5</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_argente_1_id_ggb" ></span>
+		         <span class="menu" >12 / Galon multicolore argenté 1/Zilveren vlecht 1</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_brun_2_id_ggb" ></span>
+		         <span class="menu" >13 / Galon multicolore brun 2/Veelkleurige vlecht bruin 2</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_noir_id_ggb" ></span>
+		         <span class="menu" >14 / Galon multicolore noir/Veelkleurige vlecht zwart</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases ggb_gd_gal_mult_dore_1_id_ggb" ></span>
+		         <span class="menu" >15 / Galon multicolore doré 1/Golden vlecht 1</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

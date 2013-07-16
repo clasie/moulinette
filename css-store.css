@@ -1,0 +1,365 @@
+/* Add any valid CSS declarations */html {
+  background: none repeat scroll 0 0 #96907A;
+}
+div#page {
+   background-color: transparent; /*: url("../../../../all/themes/at-commerce/css/images/xbg_claude_1_2_short.png") no-repeat fixed center top #96907A;*/
+}
+.container {
+	/*
+   background: url("../../../../all/themes/at-commerce/css/images/content-background.png") repeat scroll 0 0 transparent;
+   */
+      background: url("../../../../../misc/images/kit/site/background/main/bg_main_pages.png") repeat scroll 0 0 transparent;
+   
+   max-width: 960px;
+}
+#header-wrapper {
+    background-color: transparent;
+    background-image: -moz-linear-gradient(-90deg, transparent, transparent);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(transparent), to(transparent));
+    filter: progid:dXImageTransform.Microsoft.gradient(enabled='false',startcolorstr=#ffffff,endcolorstr=#ffffff,GradientType=0); BACKGROUND-COLOR: transparent;
+}
+#header-wrapper {
+    border-bottom: 0px solid #AB9E72;
+}
+#footer-wrapper {
+    background: none repeat scroll 0 0 #96907A;
+    border-top: 1px solid #D5D5D5;
+}
+#content-wrapper {
+    border-bottom: 0px solid #D5D5D5;
+    border-top: 0px solid #D5D5D5;
+}
+#page-footer {
+    background-color: transparent;
+}
+#footer-wrapper {
+    background: none repeat scroll 0 0 transparent;
+    border-top: 0 solid #D5D5D5;
+}
+#menu-bar {
+    background: none repeat scroll 0 0 transparent;
+}
+#menu-wrapper {
+  box-shadow: none;
+}
+.form-item.form-type-item {
+  display: none;
+}
+.node-inner.clearfix {
+    /*background: url("../../../../all/themes/at-commerce/css/images/content-background.png") repeat scroll 0 0 transparent;*/
+    /*border: 1px solid  #561513; */
+    margin: 5px 5px 5px 5px ;
+    padding: 5px 5px 5px 5px ;
+    min-height: 1px;
+}
+.container.clearfix {
+    /*background: #E4E1D2; */ /*BEB59C;*/
+    /*
+    background: url("../../../../all/themes/at-commerce/css/images/epis_2_1.png") no-repeat  center top transparent;
+    */
+    background: url("../../../../../misc/images/kit/site/background/others/bg_others_1.png") no-repeat  center top transparent; /* #E4E1D2; */
+}
+.node-content.clearfix{
+}
+.content-inner{
+	/*
+   background: url("../../../../all/themes/at-commerce/css/images/arab-horse.png") no-repeat  left top #E4E1D2;
+   */
+   background: url("../../../../../misc/images/kit/site/background/pages/bg_pages.png") no-repeat  left top #E4E1D2;
+   padding: 5px 5px 5px 5px ;
+}
+body{
+   margin-top: 30px;
+/*
+background: url("../../../../all/themes/at-commerce/css/images/bg_claude_1_2_short.png") no-repeat fixed center top #96907A;
+*/
+   background: url("../../../../../misc/images/kit/site/background/main/bg_main.png") no-repeat fixed center top #96907A;
+}
+#page-wrapper{
+ }
+.container.logo_container{
+   background: none repeat scroll 0 0 transparent;
+   margin-bottom: 20px;
+}
+
+/*  ------------- Custom Blocs claude ---------- */
+
+/* css du bloc CADEAU */
+.cust_boxcadeau {
+	overflow: hidden;
+    border: 0px solid #96907A;  
+    /* width: 230px; */
+    height:165px; 
+    background: url("../../../../../misc/images/kit/boxes/background/bg_box_kdo.png") no-repeat left top transparent;
+}
+.cust_boxcadeau_sub {
+	float: left;
+	margin: 20px 0 0 14px;
+	border: 1px solid lightgrey;
+    font-style: italic;
+    color: 	#210c02;
+    padding: 10px 10px 10px 10px;
+    background: url("../../../../../misc/images/kit/site/background/main/bg_main_pages.png") repeat ;
+    width: 100px; 
+    height: 50px; 
+}
+
+/* css du bloc PROMO */
+.cust_boxpromo {
+	overflow: hidden;	
+    border: 0px solid #96907A;  
+    /* width: 230px; */
+    height:165px; 
+    background: url("../../../../../misc/images/kit/boxes/background/bg_box_promo.png") no-repeat left top transparent;
+}
+.cust_boxpromo_sub {
+	float: left;
+	margin: 20px 0 0 14px;
+	border: 1px solid lightgrey;
+    font-style: italic;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    background: url("../../../../../misc/images/kit/site/background/main/bg_main_pages.png") repeat ;
+    width: 100px; 
+    height: 50px; 
+}
+
+/* css du bloc LINK */
+.cust_boxlink {
+	overflow: hidden;	
+    border: 0px solid #96907A;  
+    /* width: 230px; */
+    height:165px; 
+    background: url("../../../../../misc/images/kit/boxes/background/bg_box_link.png") no-repeat left top transparent;
+}
+.cust_boxlink_sub {
+	float: left;
+	margin: 20px 0 0 14px;
+	border: 1px solid lightgrey;
+    font-style: italic;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    background: url("../../../../../misc/images/kit/site/background/main/bg_main_pages.png") repeat ;
+    width: 100px; 
+    height: 50px;     
+}
+
+/* css du bloc CONTACT */
+.cust_boxcontact {
+	overflow: hidden;
+    border: 0px solid #96907A;  
+    /* width: 230px; */
+    height:165px; 
+    background: url("../../../../../misc/images/kit/boxes/background/bg_box_contact.png") no-repeat left top transparent;
+}
+.cust_boxcontact_sub {
+	float: left;
+	margin: 20px 0 0 14px;
+	border: 1px solid lightgrey;
+    font-style: italic;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    background: url("../../../../../misc/images/kit/site/background/main/bg_main_pages.png") repeat ;
+    width: 100px; 
+    height: 50px; 
+}
+
+/* image OPTIONS couleurs */
+ .PersoOptionTitle{
+   background-color:#f0f0f0;
+   padding:10px;
+   margin-top:25px;
+   padding-top: 15px;
+   border: 1px solid lightgrey;
+}
+ .PersoOptionTitle a{color:#407a8c;line-height:0.75em;font-weight:normal;text-decoration:none;font-size:15px;}
+ .PersoOptionTitle a:hover{color:#23c8ff;}
+ .PersoOptionColor{background-color:transparent;padding:45px;}
+ .PersoOptionColor .divColor{margin:3px;float: left;width:93px;height:80px;text-align: center;}
+ .PersoOptionColor .divColorBroderie{margin:3px;float: left;width:40px;height:40px;text-align: center;}
+ .PersoOptionColor .divColorImg{
+    background-color:#ffffff;
+    display:block;
+    width:91px;
+    height:50px;
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    border:1px solid #ddd;}
+
+ .PersoOptionColor .divColorImgBroderie{
+   padding:5px;background-color:#ffffff;display:block;width:38px;height:38px;border:1px solid #ddd;
+   }
+
+
+/* galons */
+
+ .PersoOptionColorGallons{
+   background-color:transparent;padding:15px;
+   display: block;
+  }
+
+ .PersoOptionColorGallons .divColor{
+   margin:3px;
+   float: left;
+   width:50px;
+   /* height:80px; */
+   text-align: left;}
+
+ .PersoOptionColorGallons .divColorImgGallons{
+   background-color:#ffffff;
+   display:block;
+   width:38px;
+   height:38px;
+   border:1px solid #ddd;
+   background-repeat:no-repeat;
+   /* background-attachment:fixed; */
+   background-position:center; 
+  }
+
+ .g_blanc {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/5_galons/1-blanc_284x20.png');}
+
+ .g_grisclair {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/5_galons/2-grisclair_284x20.png');}
+
+
+/* bordure */
+
+ .b_bleuciel {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bord-bleu-7_284x90.png');}
+
+ .b_bleu {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bord-bleu-22_283x89.png');}
+
+ .b_rosepale {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd2-rosepale_284x87.jpg');}
+
+ .b_kaki {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd14-kaki_284x90.jpg');}
+
+ .b_camel {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd20-camel_284x89.jpg');}
+
+ .b_orange {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd18-orange_283x90.jpg');}
+
+ .b_jaune {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd19jaune_284x87.jpg');}
+
+ .b_rouge {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd12-rouge_284x89.jpg');}
+
+ .b_bordeaux {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd13-bordeaux_284x89.jpg');}
+
+ .b_grisclair {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd4-grisclair_284x89.jpg');}
+
+ .b_violet {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bdviolet_284x87.jpg');}
+
+ .b_violetclair {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd21-violetclair_284x89.jpg');}
+
+ .b_choco {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd15-choco_283x90.jpg');}
+
+ .b_noir {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd16-noir_284x89.jpg');}
+
+ .b_grisfonce {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd6-grisfonce_284x90.jpg');}
+
+ .b_bleugris {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd8-bleugris_284x90.jpg');}
+
+ .b_bleuroy {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd9-bleuroy_284x89.jpg');}
+
+ .b_blanc {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd1-blanc_284x90.jpg');}
+
+ .b_moutarde {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd11-moutarde_284x89.jpg');}
+
+ .b_gris {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd17-gris_284x89.jpg');}
+
+ .b_creme {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/2_bordure/bd3-creme_284x134.jpg');}
+
+
+/* fond tapis */
+ .fblanc {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/fond-blanc_284x284.jpg');} 
+
+ .fnoir {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/noir-na10_284x284.jpg');} 
+
+ .fmarine {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na15-marine_284x284.jpg');} 
+
+ .fciel {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na1-ciel_284x284.jpg');} 
+
+ .fgrisclair {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na2-grisclair_284x284.jpg');} 
+
+ .fgrisfonce {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na3-grisfonce_284x284.jpg');} 
+
+ .fgrisbleu {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/1325184340-74na5-gris-bleu2_284x284.jpg');} 
+
+ .fvertfonce {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na6-kaki_284x284.jpg');} 
+
+ .fcamel {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na7-camel_284x284.jpg');} 
+
+ .fcreme {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na9-creme2_284x284.jpg');} 
+
+ .fbordeau {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na11-bordeaux_284x284.jpg');} 
+
+ .fmarine {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na15-marine_284x284.jpg');} 
+
+ .fgris {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na16-gris_284x284.jpg');} 
+
+ .faubergine {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/1327745105-49aubergine_284x284.jpg');} 
+
+ .fchoco {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na14-choco_284x284.jpg');} 
+
+ .frouge {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/na4-rouge_284x284.jpg');} 
+
+ .fvichy {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/vichy_284x284.jpg');} 
+
+ .fbleuroi {
+background-image:url('../../../../../misc/images/options/struct_colors_customized/1_couleur_de_base/1325184032-22na12-bleuroy3_284x284.jpg');} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+		
+			<div class="divBigProduct ColorBorders">		
+			   <div style="display:block;" >				 	   
+			      <div class="PersoOptionColorGallons">
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_bordeaux_id_gb" ></span>
+		         <span class="menu" >1 / Bordeaux/Bordeaux</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_vert_chasseur_id_gb" ></span>
+		         <span class="menu" >2 / Vert chasseur/Hunter groen</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_brun_id_gb" ></span>
+		         <span class="menu" >3 / Brun/Bruin</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_noir_id_gb" ></span>
+		         <span class="menu" >4 / Noir/Zwart</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_gris_id_gb" ></span>
+		         <span class="menu" >5 / Gris/Grijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_orange_id_gb" ></span>
+		         <span class="menu" >6 / Orange/Oranje</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_jaune_id_gb" ></span>
+		         <span class="menu" >7 / Jaune/Geel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_brun_clair_id_gb" ></span>
+		         <span class="menu" >8 / Brun clair/Lichtbruin</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_parme_id_gb" ></span>
+		         <span class="menu" >9 / Parme/paars</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_aubergine_id_gb" ></span>
+		         <span class="menu" >10 / Aubergine/Aubergine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_blanc_id_gb" ></span>
+		         <span class="menu" >11 / Blanc/Wit</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_rose_pale_id_gb" ></span>
+		         <span class="menu" >12 / Rose pâle/Lichtroze</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_creme_id_gb" ></span>
+		         <span class="menu" >13 / Crème/Crème</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_gris_clair_id_gb" ></span>
+		         <span class="menu" >14 / Gris clair/Lichtgrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_gris_fonce_id_gb" ></span>
+		         <span class="menu" >15 / Gris foncé/Donkergrijs</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_bleu_ciel_id_gb" ></span>
+		         <span class="menu" >16 / Bleu ciel/Hemelsblauw</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_bleu_petrole_id_gb" ></span>
+		         <span class="menu" >17 / Bleu pétrole/Blauwe olie</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_bleu_roi_id_gb" ></span>
+		         <span class="menu" >18 / Bleu roi/Royal Blue</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_marine_id_gb" ></span>
+		         <span class="menu" >19 / Bleu marine/Navy blauw </span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_moutarde_id_gb" ></span>
+		         <span class="menu" >20 / Moutarde/Mosterd</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases bbc_rouge_id_gb" ></span>
+		         <span class="menu" >21 / Rouge/Rood</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

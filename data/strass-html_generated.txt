@@ -1,0 +1,21 @@
+			
+			<div class="divBigProduct ColorBorders">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Strass</b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases st_strass_blanc_id_st" ></span>
+		         <span class="menu" >1 / Strass blanc/Witte strass</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases st_strass_multicolore_id_st" ></span>
+		         <span class="menu" >2 / Strass multicolore/Veelkleurige strass</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

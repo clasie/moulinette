@@ -1,0 +1,5 @@
+.st_strass_blanc_id_st {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/4_strass/frontal-hkm-petit-strass_500x86.jpg');
+}.st_strass_multicolore_id_st {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/4_strass/frontal-hkm-strass-droit_130x50.jpg');
+}

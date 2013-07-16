@@ -1,0 +1,116 @@
+			
+			<div class="divBigProduct ">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b></b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallons bordeaux_672" ></span>
+		         <span class="menu" >1 / Bordeaux/Bordeaux</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons vert-chasseur_672" ></span>
+		         <span class="menu" >2 / Vert chasseur/Vert chasseur</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brun_672" ></span>
+		         <span class="menu" >3 / Brun/Brun</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons noir_672" ></span>
+		         <span class="menu" >4 / Noir/Noir</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons gris_672" ></span>
+		         <span class="menu" >5 / Gris/Gris</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons orange_672" ></span>
+		         <span class="menu" >6 / Orange/Orange</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons jaune_672" ></span>
+		         <span class="menu" >7 / Jaune/Jaune</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons brun-clair_672" ></span>
+		         <span class="menu" >8 / Brun clair/Brun clair</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons parme_672" ></span>
+		         <span class="menu" >9 / Parme/Parme</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons aubergine_672" ></span>
+		         <span class="menu" >10 / Aubergine/Aubergine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons blanc_672" ></span>
+		         <span class="menu" >11 / Blanc/Blanc</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons rose-pale_672" ></span>
+		         <span class="menu" >12 / Rose pâle/Rose pâle</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons creme_672" ></span>
+		         <span class="menu" >13 / Crème/Crème</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons gris-clair_672" ></span>
+		         <span class="menu" >14 / Gris clair/Gris clair</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons gris-fonce_672" ></span>
+		         <span class="menu" >15 / Gris foncé/Gris foncé</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons bleu-ciel_672" ></span>
+		         <span class="menu" >16 / Bleu ciel/Bleu ciel</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons bleu-petrole_672" ></span>
+		         <span class="menu" >17 / Bleu pétrole/Bleu pétrole</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons bleu-roi_672" ></span>
+		         <span class="menu" >18 / Bleu roi/Bleu roi</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons bleu-marine_672" ></span>
+		         <span class="menu" >19 / Bleu marine/Bleu marine</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons moutarde_672" ></span>
+		         <span class="menu" >20 / Moutarde/Moutarde</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallons rouge_672" ></span>
+		         <span class="menu" >21 / Rouge/Rouge</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

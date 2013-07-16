@@ -1,0 +1,21 @@
+			
+			<div class="divBigProduct ColorBorders">
+			   <div style="display:block;" >
+			      <div class="PersoOptionTitle"><b>Pt. gal. multicol./Kl. veelkl. vlecht</b></div>
+			      <div class="PersoOptionColorGallons"> 
+						
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgb_pt_gal_mult_argente_1_id_pgb" ></span>
+		         <span class="menu" >1 / Galon multicolore argenté 1/Zilveren vlecht  1</span>
+		      </div> 
+					
+			  <div class="divColor">
+		         <span class="divColorImgGallonsBases pgb_pt_gal_mult_dore_1_id_pgb" ></span>
+		         <span class="menu" >2 / Galon multicolore doré 1/Golden vlecht 1</span>
+		      </div> 
+				
+		      </div>
+		   </div>
+		</div>
+                <div class='clearboth'> </div>
+		

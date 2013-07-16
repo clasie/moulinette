@@ -1,0 +1,5 @@
+.pgb_pt_gal_mult_argente_1_id_pgb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_petits_galons_barioles/a_p.png');
+}.pgb_pt_gal_mult_dore_1_id_pgb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_petits_galons_barioles/o_p.png');
+}

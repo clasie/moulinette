@@ -1,0 +1,84 @@
+
+.bbc_bordeaux_id_gb {
+	background-color: #800000 ;
+}
+
+.bbc_vert_chasseur_id_gb {
+	background-color: #003300 ;
+}
+
+.bbc_brun_id_gb {
+	background-color: #663300 ;
+}
+
+.bbc_noir_id_gb {
+	background-color: black ;
+}
+
+.bbc_gris_id_gb {
+	background-color: #6F6FA1 ;
+}
+
+.bbc_orange_id_gb {
+	background-color: #FF6600 ;
+}
+
+.bbc_jaune_id_gb {
+	background-color: #FFFF00 ;
+}
+
+.bbc_brun_clair_id_gb {
+	background-color: #B48100 ;
+}
+
+.bbc_parme_id_gb {
+	background-color: #CC85FF ;
+}
+
+.bbc_aubergine_id_gb {
+	background-color: #440066 ;
+}
+
+.bbc_blanc_id_gb {
+	background-color: #FFFFFF ;
+}
+
+.bbc_rose_pale_id_gb {
+	background-color: #FF797B ;
+}
+
+.bbc_creme_id_gb {
+	background-color: #FFFF99 ;
+}
+
+.bbc_gris_clair_id_gb {
+	background-color: #D1D1DF ;
+}
+
+.bbc_gris_fonce_id_gb {
+	background-color: #6F6FA1 ;
+}
+
+.bbc_bleu_ciel_id_gb {
+	background-color: #D5ECF1 ;
+}
+
+.bbc_bleu_petrole_id_gb {
+	background-color: #006699 ;
+}
+
+.bbc_bleu_roi_id_gb {
+	background-color: #0033CC ;
+}
+
+.bbc_marine_id_gb {
+	background-color: #000066 ;
+}
+
+.bbc_moutarde_id_gb {
+	background-color: #DF9300 ;
+}
+
+.bbc_rouge_id_gb {
+	background-color: #990000 ;
+}

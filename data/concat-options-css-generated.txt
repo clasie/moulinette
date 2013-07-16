@@ -1,0 +1,406 @@
+
+.ggc_bordeaux_id_gg {
+	background-color: #800000 ;
+}
+
+.ggc_fushia_id_gg {
+	background-color: #FF0066 ;
+}
+
+.ggc_bleu_petrole_id_gg {
+	background-color: #006699 ;
+}
+
+.ggc_aubergine_id_gg {
+	background-color: #440066 ;
+}
+
+.ggc_vert_chasseur_id_gg {
+	background-color: #003300 ;
+}
+
+.ggc_jaune_pale_id_gg {
+	background-color: #FFFF99 ;
+}
+
+.ggc_blanc_id_gg {
+	background-color: #FFFFFF ;
+}
+
+.ggc_moutarde_clair_id_gg {
+	background-color: #FFCC00 ;
+}
+
+.ggc_rouille_id_gg {
+	background-color: #CC3300 ;
+}
+
+.ggc_marine_id_gg {
+	background-color: #000066 ;
+}
+
+.ggc_gris_fonce_id_gg {
+	background-color: #6F6FA1 ;
+}
+
+.ggc_parme_id_gg {
+	background-color: #CC85FF ;
+}
+
+.ggc_mauve_id_gg {
+	background-color: #78008A ;
+}
+
+.ggc_champagne_id_gg {
+	background-color: #FFFF99 ;
+}
+
+.ggc_orange_id_gg {
+	background-color: #FF6600 ;
+}
+
+.ggc_vert_flash_id_gg {
+	background-color: #00C900 ;
+}
+
+.ggc_gris_bleu_id_gg {
+	background-color: #659A9A ;
+}
+
+.ggc_gris_id_gg {
+	background-color: #E0E0E9 ;
+}
+
+.ggc_brun_id_gg {
+	background-color: #663300 ;
+}
+
+.ggc_bleu_roi_id_gg {
+	background-color: #0033CC ;
+}
+
+.ggc_moutarde_fonce_id_gg {
+	background-color: #CC9900 ;
+}
+
+.ggc_noir_id_gg {
+	background-color: black ;
+}
+
+.ggc_bleu_indigo_id_gg {
+	background-color: #000066 ;
+}
+
+.ggc_gris_clair_id_gg {
+	background-color: #D1D1DF ;
+}
+
+.ggc_vert_pale_id_gg {
+	background-color: #7ECA32 ;
+}
+
+.ggc_bleu_ciel_id_gg {
+	background-color: #66CCFF ;
+}
+
+.ggc_rose_pale_id_gg {
+	background-color: #FFB6C1 ;
+}
+
+.ggc_vieux_rose_id_gg {
+	background-color: #FF797B ;
+}
+
+.ggc_brun_clair_id_gg {
+	background-color: #B48100 ;
+}
+
+.ggc_rouge_id_gg {
+	background-color: #990000 ;
+}
+
+.pgc_noir_id_pg {
+	background-color: black ;
+}
+
+.pgc_gris_clair_id_pg {
+	background-color: #D1D1DF ;
+}
+
+.pgc_parme_id_pg {
+	background-color: #CC85FF ;
+}
+
+.pgc_bordeaux_id_pg {
+	background-color: #800000 ;
+}
+
+.pgc_brun_id_pg {
+	background-color: #663300 ;
+}
+
+.pgc_mauve_id_pg {
+	background-color: #78008A ;
+}
+
+.pgc_bleu_indigo_id_pg {
+	background-color: #000066 ;
+}
+
+.pgc_champagne_id_pg {
+	background-color: #FFFF99 ;
+}
+
+.pgc_jaune_id_pg {
+	background-color: #FFFF00 ;
+}
+
+.pgc_aubergine_id_pg {
+	background-color: #440066 ;
+}
+
+.pgc_rouge_id_pg {
+	background-color: #990000 ;
+}
+
+.pgc_gris_fonce_id_pg {
+	background-color: #6F6FA1 ;
+}
+
+.pgc_marine_id_pg {
+	background-color: #000066 ;
+}
+
+.pgc_bleu_roi_id_pg {
+	background-color: #0033CC ;
+}
+
+.pgc_bleu_petrole_id_pg {
+	background-color: #006699 ;
+}
+
+.pgc_vert_flash_id_pg {
+	background-color: #00C900 ;
+}
+
+.pgc_gris_id_pg {
+	background-color: #E0E0E9 ;
+}
+
+.pgc_fushia_id_pg {
+	background-color: #FF0066 ;
+}
+
+.pgc_bleu_ciel_id_pg {
+	background-color: #66CCFF ;
+}
+
+.pgc_rouille_id_pg {
+	background-color: #CC3300 ;
+}
+
+.pgc_blanc_id_pg {
+	background-color: #FFFFFF ;
+}
+
+.pgc_vert_chasseur_id_pg {
+	background-color: #003300 ;
+}
+
+.pgc_brun_clair_id_pg {
+	background-color: #B48100 ;
+}
+
+.brc_blanc_id_br {
+	background-color: #FFFFFF ;
+}
+
+.brc_gris_clair_id_br {
+	background-color: #D1D1DF ;
+}
+
+.brc_bleu_roi_id_br {
+	background-color: #0033CC ;
+}
+
+.brc_jaune_id_br {
+	background-color: #FFFF00 ;
+}
+
+.brc_fushia_id_br {
+	background-color: #FF0066 ;
+}
+
+.brc_brun_clair_id_br {
+	background-color: #B48100 ;
+}
+
+.brc_marine_id_br {
+	background-color: #000066 ;
+}
+
+.brc_rouge_id_br {
+	background-color: #990000 ;
+}
+
+.brc_vichy_id_br {
+	background-color: #000066 ;
+}
+
+.bdc_blanc_id_bd {
+	background-color: #FFFFFF ;
+}
+
+.bdc_gris_clair_id_bd {
+	background-color: #D1D1DF ;
+}
+
+.bdc_bleu_roi_id_bd {
+	background-color: #0033CC ;
+}
+
+.bdc_jaune_id_bd {
+	background-color: #FFFF00 ;
+}
+
+.bdc_fushia_id_bd {
+	background-color: #FF0066 ;
+}
+
+.bdc_brun_clair_id_bd {
+	background-color: #B48100 ;
+}
+
+.bdc_marine_id_bd {
+	background-color: #000066 ;
+}
+
+.bdc_rouge_id_bd {
+	background-color: #990000 ;
+}
+
+.bdc_vichy_id_bd {
+	background-color: #000066 ;
+}
+.ggb_gd_gal_mult_bleu_1_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/2_b.png');
+}.ggb_gd_gal_mult_vert_1_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/3_b_2.png');
+}.ggb_gd_gal_mult_vert_2_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/5_b.png');
+}.ggb_gd_gal_mult_brun_1_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/6_b_2.png');
+}.ggb_gd_gal_mult_rose_5_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/8_b.png');
+}.ggb_gd_gal_mult_vert_6_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/13_b.png');
+}.ggb_gd_gal_mult_rouge_7_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/14_O.png');
+}.ggb_gd_gal_mult_bleu_2_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/14_b.png');
+}.ggb_gd_gal_mult_bleu_3_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/15_b.png');
+}.ggb_gd_gal_mult_bleu_4_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/19.png');
+}.ggb_gd_gal_mult_bleu_5_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/20.png');
+}.ggb_gd_gal_mult_argente_1_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/arg.png');
+}.ggb_gd_gal_mult_brun_2_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/m_o_3.png');
+}.ggb_gd_gal_mult_noir_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/n_o.png');
+}.ggb_gd_gal_mult_dore_1_id_ggb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_grands_galons_barioles/oro.png');
+}.pgb_pt_gal_mult_argente_1_id_pgb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_petits_galons_barioles/a_p.png');
+}.pgb_pt_gal_mult_dore_1_id_pgb {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/5_petits_galons_barioles/o_p.png');
+}.st_strass_blanc_id_st {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/4_strass/frontal-hkm-petit-strass_500x86.jpg');
+}.st_strass_multicolore_id_st {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/4_strass/frontal-hkm-strass-droit_130x50.jpg');
+}
+.bbc_bordeaux_id_gb {
+	background-color: #800000 ;
+}
+
+.bbc_vert_chasseur_id_gb {
+	background-color: #003300 ;
+}
+
+.bbc_brun_id_gb {
+	background-color: #663300 ;
+}
+
+.bbc_noir_id_gb {
+	background-color: black ;
+}
+
+.bbc_gris_id_gb {
+	background-color: #6F6FA1 ;
+}
+
+.bbc_orange_id_gb {
+	background-color: #FF6600 ;
+}
+
+.bbc_jaune_id_gb {
+	background-color: #FFFF00 ;
+}
+
+.bbc_brun_clair_id_gb {
+	background-color: #B48100 ;
+}
+
+.bbc_parme_id_gb {
+	background-color: #CC85FF ;
+}
+
+.bbc_aubergine_id_gb {
+	background-color: #440066 ;
+}
+
+.bbc_blanc_id_gb {
+	background-color: #FFFFFF ;
+}
+
+.bbc_rose_pale_id_gb {
+	background-color: #FF797B ;
+}
+
+.bbc_creme_id_gb {
+	background-color: #FFFF99 ;
+}
+
+.bbc_gris_clair_id_gb {
+	background-color: #D1D1DF ;
+}
+
+.bbc_gris_fonce_id_gb {
+	background-color: #6F6FA1 ;
+}
+
+.bbc_bleu_ciel_id_gb {
+	background-color: #D5ECF1 ;
+}
+
+.bbc_bleu_petrole_id_gb {
+	background-color: #006699 ;
+}
+
+.bbc_bleu_roi_id_gb {
+	background-color: #0033CC ;
+}
+
+.bbc_marine_id_gb {
+	background-color: #000066 ;
+}
+
+.bbc_moutarde_id_gb {
+	background-color: #DF9300 ;
+}
+
+.bbc_rouge_id_gb {
+	background-color: #990000 ;
+}

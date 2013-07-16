@@ -1,0 +1,2 @@
+strass_blanc       | (blanc)
+strass_multicolore | (multicolore)

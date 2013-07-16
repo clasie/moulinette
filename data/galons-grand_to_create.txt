@@ -1,0 +1,23 @@
+Galon gros brillant gris 1/b -> NOM FILE: 1b-gris-brillant.png
+Galon gros brillant rose alterné blanc/rose pale 8/b -> NOM FILE: 8b-rose-alterne-blanc.png 
+Galon gros brillant bordeaux doré 14/b  -> NOM FILE: 14b-bordeaux-dore.png
+Galon gros brillant gris argente 15/b  -> NOM FILE: 15b-gris-argente.png
+
+Galon gros mat  aubergine 32  -> NOM FILE: 32-aubergine.png
+Galon gros mat  bleu ciel 21 -> NOM FILE: 21-bleu-ciel.png
+Galon gros mat  mauve pale 30 -> NOM FILE: 30-mauve-pale.png
+Galon gros mat  vert flash 35   -> NOM FILE: 35-vert-flash.png
+Galon gros mat  rose 15   -> NOM FILE: 15-rose.png
+Galon gros mat  bleu 18   -> NOM FILE: 18-bleu.png
+
+Galon fin jaune 34 p   -> NOM FILE: 34p-jaune.png
+Galon fin gris 3 p  -> NOM FILE: 3p-gris.png
+Galon fin gris 2 p  -> NOM FILE: 2p-gris.png
+Galon fin bleu 18 p  -> NOM FILE: 18p-bleu.png
+Galon fin parme 30 p  -> NOM FILE: 30p-parme.png
+Galon fin vert 35 p  -> NOM FILE: 35p-vert.png
+Galon fin taupe 22 p  -> NOM FILE: 22p-taupe.png
+Galon fin aubergine 32 p  -> NOM FILE: 32p-aubergine.png
+Galon fin bleugris 21 p  -> NOM FILE: 21p-bleugris.png
+Galon fin fushia 33 p  -> NOM FILE: 33p-fushia.png
+Galon fin bordeaux 9 p  -> NOM FILE: 9p-bordeau.png

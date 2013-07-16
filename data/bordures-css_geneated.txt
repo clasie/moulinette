@@ -1,0 +1,23 @@
+.br_noir-petit_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324405776-47bd-16p-noirpetit_284x34.jpg');
+}.br_blanc-petit_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324407054-61bd-1p-blancpetit_284x34.jpg');
+}.br_gris-clair-petit_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324407115-36bd-4p-grisclairpetit_284x34.jpg');
+}.br_rouge-petit_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324407454-59bd12p-rougepetit_284x32.jpg');
+}.br_camel-petit_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324408376-75bd20p-camelpetit_284x34.jpg');
+}.br_ecossais-vert_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324408452-3bdsc4-ecossaisvert_284x34.jpg');
+}.br_vichy_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324408616-35bdvichy_284x34.jpg');
+}.br_ecossais_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324409532-65bdsc1-ecossais_284x34.jpg');
+}.br_ecossais-bleu_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324409937-7sc2-ecossaisbleu_284x34.jpg');
+}.br_rouge-ecossais_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324720145-13sc3-rougeecossais_284x34.jpg');
+}.br_bleu-roi-petit_400 {
+	 background-image:url('../../../../../misc/images/options/struct_colors_customized/3_bord_interieur/1324720475-7bd9p-bleuroypetit_284x34.jpg');
+}
